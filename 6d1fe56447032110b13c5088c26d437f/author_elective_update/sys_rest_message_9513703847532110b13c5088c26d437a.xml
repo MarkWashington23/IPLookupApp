@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Information about IP addresses</description>
+        <name>IPInfo</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>mark.washington@exelaration.com</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-05 13:09:19</sys_created_on>
+        <sys_id>9513703847532110b13c5088c26d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPInfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_1046699_iplookup">6d1fe56447032110b13c5088c26d437f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">6d1fe56447032110b13c5088c26d437f</sys_scope>
+        <sys_update_name>sys_rest_message_9513703847532110b13c5088c26d437a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-05 13:09:19</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">6d1fe56447032110b13c5088c26d437f</application>
+        <file_path/>
+        <instance_id>4dea53e6db9bec107527d7c8f496198b</instance_id>
+        <instance_name>dev110775</instance_name>
+        <name>sys_rest_message_9513703847532110b13c5088c26d437a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description>Information about IP addresses</description><name>IPInfo</name><oauth2_profile/><protocol_name/><rest_endpoint>mark.washington@exelaration.com</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-05 13:09:19</sys_created_on><sys_id>9513703847532110b13c5088c26d437a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IPInfo</sys_name><sys_package display_value="IPLookup" source="x_1046699_iplookup">6d1fe56447032110b13c5088c26d437f</sys_package><sys_policy/><sys_scope display_value="IPLookup">6d1fe56447032110b13c5088c26d437f</sys_scope><sys_update_name>sys_rest_message_9513703847532110b13c5088c26d437a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-05 13:09:19</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>-556527336</payload_hash>
+        <record_name>IPInfo</record_name>
+        <reverted_from/>
+        <source>651f692847032110b13c5088c26d43d7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-05 13:09:19</sys_created_on>
+        <sys_id>77533cf447532110b13c5088c26d43b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1888bad23720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-05 13:09:19</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>bf533cf4a25321103e05dc3c7f5c47b1</update_guid>
+        <update_guid_history>bf533cf4a25321103e05dc3c7f5c47b1:-556527336</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-05 14:11:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>6e145b87f9cd4d22bbbcbd0529585241</sys_id>
+        <sys_metadata>9513703847532110b13c5088c26d437a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPInfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_1046699_iplookup">6d1fe56447032110b13c5088c26d437f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">6d1fe56447032110b13c5088c26d437f</sys_scope>
+        <sys_scope_delete display_value="">2ee39b3610ae432f83ddc914734e2f41</sys_scope_delete>
+        <sys_update_name>sys_rest_message_9513703847532110b13c5088c26d437a</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_9513703847532110b13c5088c26d437a">77533cf447532110b13c5088c26d43b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-05 14:11:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
